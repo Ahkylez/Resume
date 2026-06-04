@@ -11,7 +11,6 @@
 
 <script src="config.js"></script>
 <script>
-    // Dynamically inject variables if they exist locally
     if (typeof config !== 'undefined') {
         document.getElementById('location').innerText = config.LOCATION || "Remote / California";
         document.getElementById('phone').innerText = config.PHONE || "[Hidden]";
@@ -30,7 +29,6 @@
 
 ---
 
-<!-- **University of California, Merced** | ***B.S. in Applied Mathematics (CS Emphasis)** |* **GPA: 3.7**	Expected May 2027   -->
 <p class="item-header"><strong>University of California, Merced | B.S. in Applied Mathematics (CS Emphasis) | GPA: 3.7 </strong> <span>Expected May 2027</span></p>
 
 **Relevant Coursework:** Mathematical Modeling, Probability & Statistics, Linear Algebra & Differential Equations, Numerical Analysis, Data Structures, Advanced Programming, Algorithm Design & Analysis, Complex Variables, Linear Analysis 
