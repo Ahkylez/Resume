@@ -1,0 +1,68 @@
+
+body {
+    font-family: "EB Garamond", Arial, sans-serif;
+    font-size: 10.5pt;
+    line-height: 12pt;
+    color: #1a1a1a;
+    
+    /* Page Dimensions */
+    width: 7.28in;         
+    margin: 0 auto; /* Centers the whole document on the paper */
+    padding-top: 0.53in;   
+    padding-bottom: 0.56in;
+}
+
+
+p {
+    font-family: "EB Garamond", Arial, sans-serif;
+    font-size: 10.5pt;
+    line-height: 12pt;
+    color: #1a1a1a;
+    margin: 0 0 2pt 0; 
+}
+ul {
+    padding-inline-start: 10pt;
+    margin: 0 0 2pt 0; 
+}
+h1{
+    font-size: 16pt;
+    color: #1a1a1a;
+    text-align: center;
+    border-bottom: none !important;
+    line-height: 10pt;
+    margin: 0pt;
+    margin-left: 0pt;
+    margin-right: 0pt;
+
+}
+h2{
+    font-family: "EB Garamond", Arial, sans-serif;
+    border-bottom: none !important;
+    font-size: 11pt;
+    line-height: 12pt;
+    color: #1a1a1a;
+    margin: 5pt 0pt 0pt 0pt; 
+}
+h3 {
+    font-size: 13pt;
+    text-transform: uppercase;
+    margin-bottom: 2pt;
+    color: #111;
+    margin-left: 0pt;
+    margin-right: 0pt;
+}
+hr {
+    border: 0;
+    border-top: 1pt solid black !important;
+    margin: 0pt 0pt 3pt 0pt; 
+}
+
+.item-header {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    gap: 10px;
+    margin-bottom: 2px;
+}
+.item-header *:last-child {
+    text-align: right;
+}
