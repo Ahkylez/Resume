@@ -31,6 +31,8 @@
 
 <p class="item-header"><strong>University of California, Merced | B.S. in Applied Mathematics (CS Emphasis) | GPA: 3.7 </strong> <span>Expected May 2027</span></p>
 
+**Honors & Awards:** Wishek Family Endowed Scholarship (2026–2027), Deans Honor List
+
 **Relevant Coursework:** Mathematical Modeling, Probability & Statistics, Linear Algebra & Differential Equations, Numerical Analysis, Data Structures, Advanced Programming, Algorithm Design & Analysis, Complex Variables, Linear Analysis 
 
 ## **RESEARCH EXPERIENCE**
