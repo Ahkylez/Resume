@@ -20,10 +20,9 @@
     }
 </script>
 ---
-
-* Applied Mathematics (CS Emphasis) undergraduate with research interest in quantitative finance, stochastic programming, and optimization.   
-* First-author on a conference-submitted paper integrating TC-VAE with Vine Copula for stochastic portfolio optimization.   
-* Selected as a UROC Research Scholar (5% acceptance rate) using Lean4 to formalize proofs under Prof. Juan Meza. 
+* Applied Mathematics undergraduate with a 3.7 GPA and a passion in stochastic programming, non-linear optimization, and generative time-series modeling.
+* First-author on a conference-submitted paper achieving a 12.75% total return vs. baseline using a custom C++ two-stage CVaR portfolio optimizer.
+* Advanced Numerical Research: Selected as a SURI UROC Scholar to engineer Augmented Lagrangian solvers for non-linear elliptic PDEs.
 
 ## **EDUCATION**
 
