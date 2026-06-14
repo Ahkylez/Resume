@@ -52,8 +52,27 @@
 <p class="item-header"><strong>UROC Research Scholar</strong> <span>Merced, CA</span></p>
 <p class="item-header">Mentor: Prof. Juan Meza<span>June 2026 – Present</span></p>
 
-* **Proofs for Finance:** Utilizing Lean 4 to explore the formal verification of non-linear financial models and optimization algorithms.  
-* **Algorithmic Correctness:** Researching methods to prove the mathematical soundness of automated strategies, targeting high-reliability applications in derivatives and options pricing.
+* **Non-Linear PDE Optimization:** Developing an Augmented Lagrangian numerical framework in MATLAB to solve the elliptic Monge-Ampère equation under Dirichlet boundary conditions.
+* **High-Dimensional Scaling:** Engineering the expansion of the 2D formulation into 3D spaces, optimizing computational efficiency and convergence rates for complex geometric applications.
+* **Robust Convergence:** Formulating saddle-point optimization strategies to transform highly non-linear partial differential equations into stable, decoupled sub-problems, minimizing numerical instability.
+
+## **WORK EXPERIENCE**
+
+---
+
+<p class="item-header"><strong>ELLERRA</strong> <span>Palo Alto, CA (Remote)</span></p>
+<p class="item-header">Quantitative Sourcing & Tooling Intern<span>June 2026 – Present</span></p>
+
+* **Investor Sourcing Infrastructure:** Designing and engineering the foundational data pipeline and sourcing architecture to programmatically discover, aggregate, and track venture capital and angel investors for early-stage startups.
+* **Algorithmic Matching Engine:** Developing a multi-variable matching framework to align startup profiles (industry, stage, capital requirements) with investor investment theses, historical portfolio data, and active mandates.
+* **Optimal Allocation Logic:** Formulating quantitative criteria to rank and identify the highest-probability investor-founder matches, reducing fundraising friction and improving targeted outreach efficiency.
+
+
+<p class="item-header"><strong>UNIVERSITY OF CALIFORNIA, Merced</strong> <span>Merced, CA</span></p>
+<p class="item-header">Learning Assistant - Calculus<span>Aug 2024 – Present</span></p>
+
+* Mentored 1,000+ students by translating abstract mathematical concepts into actionable problem-solving techniques during collaborative review sessions. 
+
 
 ## **PROJECTS**
 
@@ -64,13 +83,6 @@
 * Analytics Dashboard: Developed a Streamlit app for Modern Portfolio Theory (MPT) asset allocation.   
 * Risk Attribution: Engineered modular libraries for automated multi-asset covariance estimation and downside risk metrics.
 
-## **WORK EXPERIENCE**
-
---- 
-<p class="item-header"><strong>UNIVERSITY OF CALIFORNIA, Merced</strong> <span>Merced, CA</span></p>
-<p class="item-header">Learning Assistant - Calculus<span>Aug 2024 – Present</span></p>
-
-* Mentored 1,000+ students by translating abstract mathematical concepts into actionable problem-solving techniques during collaborative review sessions. 
 
 ## **ADDITIONAL**
 
