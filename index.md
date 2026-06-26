@@ -60,7 +60,7 @@
 ---
 
 <p class="item-header"><strong>ELLERRA</strong> <span>Palo Alto, CA (Remote)</span></p>
-<p class="item-header">Quantitative Sourcing & Tooling Intern<span>June 2026 – Present</span></p>
+<p class="item-header">Financial Analyst<span>June 2026 – Present</span></p>
 
 * **Investor Sourcing Infrastructure:** Designing and engineering the foundational data pipeline and sourcing architecture to programmatically discover, aggregate, and track venture capital and angel investors for early-stage startups.
 * **Algorithmic Matching Engine:** Developing a multi-variable matching framework to align startup profiles (industry, stage, capital requirements) with investor investment theses, historical portfolio data, and active mandates.
