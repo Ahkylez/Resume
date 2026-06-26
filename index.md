@@ -87,4 +87,4 @@
 
 ---
 
-**Skills:** Python (PyTorch, scikit-learn, pandas, NumPy, Streamlit, Jupyter, Matplotlib, SciPy),  LaTeX, git, CVXPY, HIGHS/LP solver, SQL, Google OR-Tools MP Solver, Vim
+**Skills:** Python (PyTorch, scikit-learn, pandas, NumPy, Streamlit, Jupyter, Matplotlib, SciPy),  LaTeX, git, CVXPY, HIGHS/LP solver, SQL, Google OR-Tools MP Solver, Vim, Postgres, supabase
