@@ -2,8 +2,23 @@
 If you want to view the resume, it's on github pages at the link:
 https://ahkylez.github.io/Resume/
 
-# Printing your Resume
+# Instructions
 
+1. Fork the project.
+2. Create a config.js and paste in this code
+```js
+const config = {
+	LOCATION: "Your location",
+	PHONE: "Your phone number"
+};
+```
+3. Download a markdown to html converter, I used: https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one
+4. Write your resume in the index.md file, just replace what I have to fit your needs.
+5. After you're done writing in the index.md, if you downloaded the same extension as me click ctrl-shift-p and pick "Markdown All in one: Print current document to html".
+6. With that you can open your resume in a browser, and it should be ready to print.
+7. You can also set up github pages for a site, in the site your phone number and location will be hidden.
+
+# Printing your Resume
 When you print your own resume, make sure you have these settings for the best results:
 - Orientation: Portrait
 - Pages: All
